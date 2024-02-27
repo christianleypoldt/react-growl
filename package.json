@@ -1,5 +1,5 @@
 {
-  "name": "@crystallize/react-growl",
+  "name": "@christianleypoldt/react-growl",
   "description": "Accessible React package to do growl feedback",
   "version": "3.0.0",
   "source": "src/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:CrystallizeAPI/react-growl.git"
+    "url": "git@github.com:christianleypoldt/@christianleypoldt/react-growl.git"
   },
   "peerDependencies": {
     "framer-motion": "^2.7.6",
