@@ -1,5 +1,6 @@
 {
   "name": "@christianleypoldt/react-growl",
+  "private": false,
   "description": "Accessible React package to do growl feedback",
   "version": "3.0.0",
   "source": "src/index.js",
